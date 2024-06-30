@@ -1,7 +1,7 @@
 # DPCM based Encoder/ Decoder
 
 이 실습은 다양한 DPCM 기반의 encoding/decoding 압축 기법을 이용해 구현했습니다. 
-
+사용된 동영상은 FOREMAN_CIF30.yuv 파일입니다. 
 
 
 
